@@ -12,5 +12,4 @@ public class AppRoot {
 //			new SelectedSortHelper().testSelectedSort();
 			new MergeSortHelper().testMergeArray();
 		}
-
 }
