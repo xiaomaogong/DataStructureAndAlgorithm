@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1da72b37-bcfc-4999-8abb-763f73fa17ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/JavaDataAndAlgorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaDataAndAlgorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppRoot.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -204,12 +201,12 @@
       <workItem from="1548213930903" duration="327000" />
       <workItem from="1548214324701" duration="575000" />
       <workItem from="1548215065250" duration="953000" />
-      <workItem from="1548217978526" duration="282000" />
+      <workItem from="1548217978526" duration="1641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2137000" />
+    <option name="totallyTimeSpent" value="3496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
